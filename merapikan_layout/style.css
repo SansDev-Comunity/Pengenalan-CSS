@@ -1,0 +1,118 @@
+body {
+  padding: 20px 20px 20px 20px;
+  }
+  
+ h1 {
+  color: #6FB095;
+  font-family: Helvetica;
+}
+
+h2 {
+  margin: 10px 0 20px 0;
+  color: #6FB095;
+  padding: 6px 3px 0 0;
+  font-family: Helvetica;
+}
+
+h3 {
+  margin: 20px 0 0 0;
+  border-bottom: 1px solid #cccccc;
+  color: #6FB095;
+  padding-bottom: 3px;
+  font-family: Helvetica;
+}
+
+.nav {
+  padding-left: 0;
+  margin: 5px 0 20px 0;
+  list-style-type: none;
+  text-align: center;
+}
+
+.nav a {
+  font-family: Helvetica;
+}
+.nav li {
+  display: inline;
+}
+
+.header {
+  padding: 10px 10px 10px 10px;
+  background-color: #DF594D;
+  color: #ffffff;
+}
+
+.header a, h1{
+  color: #ffffff;
+  text-align: center;
+}
+
+.konten-utama {
+  width: 500px;
+  border: 1px solid #dddddd;
+  margin: 30px auto 0 auto;
+  padding: 0 15px 0 15px;  /*tambahkan baris ini */
+}
+
+.konten-utama p {
+  font-family: Helvetica;
+}
+
+
+
+/*==Dropdown CSS==*/
+
+/*=Pengaturan tag li pertama pada class dropdown-list-anima=*/
+ul.dropdown-list-anima li {
+  cursor: pointer;
+  position: relative;
+  margin: 0 10px 0px 0;
+}
+
+/*=Pengaturan tag ul didalam tag li pertama pada class dropdown-list-anima=*/
+ul.dropdown-list-anima li ul {
+  position: absolute;
+  width: 100%;
+  left: -9999em;
+  top: 20px;
+}
+
+/*=Pengaturan hover tag ul didalam tag li pertama pada class dropdown-list-anima=*/
+ul.dropdown-list-anima li:hover ul {
+  left: -50px;
+}
+
+/*=Pengaturan hover tag li -> ul -> li pada class dropdown-list-anima=*/
+ul.dropdown-list-anima li ul li {
+  padding: 0;
+  cursor: default;
+  text-align: left;
+  margin: 0px;
+}
+
+ul.dropdown-list-anima li ul li a:hover {
+  background: #333;
+}
+
+
+/*== Letakkan kode transisi disini ==*/
+
+ul.dropdown-list-anima li ul li a {
+  color: #fff;
+  display: block;
+  width: 300%;
+  text-align = left;
+  background-color: #b56663;
+  padding: 0;
+  -moz-transition: 0.2s ease;
+  -webkit-transition: 0.2s ease;
+  transition: 0.2s ease;
+}
+
+
+/*== Hover li induk dan akan muncul efek transisinya ==*/
+
+ul.dropdown-list-anima li:hover ul li a {
+  padding: 5px;
+  text-decoration: none;
+}
