@@ -23,4 +23,5 @@
 ```
 
 # Output
-![image]([https:nalStyleCSS%201.png?token=GHSAT0AAAAAADTMAA5ILNFR6KDXDDKR5O2E2LPI4KQ](https://raw.githubusercontent.com/SansDev-Comunity/Pengenalan-CSS/refs/heads/main/images/InternalStyleCSS%203.png?token=GHSAT0AAAAAADTMAA5ITEPOUTT6BEOGMJSC2LPJJAQ))
+![image](https://raw.githubusercontent.com/SansDev-Comunity/Pengenalan-CSS/refs/heads/main/images/InternalStyleCSS%203.png?token=GHSAT0AAAAAADTMAA5JECJJETRUMU2C3NBK2LPJJZQ)
+
