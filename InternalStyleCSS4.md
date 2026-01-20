@@ -1,3 +1,6 @@
+# InternalStyleCSS 4
+
+```
 <html>
 	<head>
 		<style>
@@ -20,3 +23,7 @@
 		<p style="font-family:times">Ini contoh paragraf times berwarna merah </p>
 	</body>
 <html>
+```
+
+# Output
+![image](https://raw.githubusercontent.com/SansDev-Comunity/Pengenalan-CSS/refs/heads/main/images/InternalStyleCSS%203.png?token=GHSAT0AAAAAADTMAA5I6SBLHI6HIXSRI5G22LPJTDQ)
