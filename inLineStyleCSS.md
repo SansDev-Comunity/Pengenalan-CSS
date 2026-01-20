@@ -10,5 +10,7 @@
 	</body>
 <html>
 ```
+# Output
 
 ![image](https://raw.githubusercontent.com/SansDev-Comunity/Pengenalan-CSS/refs/heads/main/images/inLineStyle.png?token=GHSAT0AAAAAADTMAA5J6IU2DVUHHC6VDEGY2LPIMZA)
+
