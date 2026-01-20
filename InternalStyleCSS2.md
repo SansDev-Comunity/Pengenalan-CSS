@@ -1,3 +1,5 @@
+# InternalStyleCSS2
+
 <html>
 	<head>
 		<style>
@@ -11,3 +13,7 @@
 		<p style ="color:red"> Ini contoh paragraf berwarna merah </p>
 	</body>
 <html>
+
+# Output
+
+![image](https://raw.githubusercontent.com/SansDev-Comunity/Pengenalan-CSS/refs/heads/main/images/InternalStyleCSS%202.png?token=GHSAT0AAAAAADTMAA5IICBPKAPUC4UBI7M22LPI6IQ)
