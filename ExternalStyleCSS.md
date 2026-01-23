@@ -18,7 +18,8 @@
 
 # Output
 
-![image](https://raw.githubusercontent.com/SansDev-Comunity/Pengenalan-CSS/refs/heads/main/images/External%20Style.png?token=GHSAT0AAAAAADTMAA5JXH3VV4OOCZ4UNLSC2LTJXDA)
+![image](https://github.com/SansDev-Comunity/Pengenalan-CSS/blob/main/images/External%20Style.png)
+
 
 
 
