@@ -26,6 +26,7 @@
 ```
 
 # Output
-![image](https://raw.githubusercontent.com/SansDev-Comunity/Pengenalan-CSS/refs/heads/main/images/InternalStyleCSS%204.png?token=GHSAT0AAAAAADTMAA5JL6VZZ43GQN7B4ZVU2LPQWVA)
+![image](https://github.com/SansDev-Comunity/Pengenalan-CSS/blob/main/images/InternalStyleCSS%204.png)
+
 
 
