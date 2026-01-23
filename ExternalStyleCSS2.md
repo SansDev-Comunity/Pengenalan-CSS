@@ -1,3 +1,6 @@
+# ExternalStyleCSS2
+
+```
 <html>
 	<head>
 		<link rel="stylesheet" href="css/format.css" type="text/css">
@@ -10,3 +13,8 @@
 		<p style="font-family:times">Ini contoh paragraf times berwarna biru </p>
 	</body>
 <html>
+```
+
+# Output
+
+![image](https://raw.githubusercontent.com/SansDev-Comunity/Pengenalan-CSS/refs/heads/main/images/External%20Style.png?token=GHSAT0AAAAAADTMAA5IAW7L6TI3QVP5SSUE2LTJ7BQ)
