@@ -1,3 +1,6 @@
+# import_css
+
+```
 <html>
 	<head>
 		<link rel="stylesheet" href="css/style.css" type="text/css">
@@ -14,3 +17,7 @@
 		</p>
 	</body>
 </html>
+```
+
+
+![image](https://github.com/SansDev-Comunity/Pengenalan-CSS/blob/main/images/Import_CSS.png)
