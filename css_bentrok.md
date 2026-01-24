@@ -1,3 +1,6 @@
+# CSS Bentrok
+
+```
 <HTML> 
 	<HEAD> 
 		<TITLE> Latihan CSS </TITLE> 
@@ -12,3 +15,6 @@
 		<h1>Syukuri apa yang ada</h1> 
 	</BODY> 
 </HTML> 
+```
+
+# Output
