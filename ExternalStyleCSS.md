@@ -1,5 +1,6 @@
 # External Styleheet
 
+
 ```
 <html>
 	<head>
@@ -19,6 +20,7 @@
 # Output
 
 ![image](https://github.com/SansDev-Comunity/Pengenalan-CSS/blob/main/images/External%20Style.png)
+
 
 
 
