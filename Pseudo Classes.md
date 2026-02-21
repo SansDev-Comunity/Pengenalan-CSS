@@ -16,4 +16,4 @@ Dimasukan pada baris kode paling atas, berikut selector pseudo class:
 | **:hofer** | a:hover | Link yang di lewati pointer mouse. |
 | **:focus** | input:focus | Memilih elemen input yang mendapat focus. |
 | **first-letter** | p:first-letter | Memilih huruf pertama dari setiap element p. |
-| **[07. Pengujian](chapters/07-pengujian-dan-kualitas.md)** | Reliabilitas | Feature Testing, Model Factories, Pint. |
+| **first-line** | p:first-line | Memilih baris pertama dari setiap elemen p. |
