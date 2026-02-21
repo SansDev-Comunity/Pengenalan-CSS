@@ -1,5 +1,12 @@
 # Link
 
+Implementasi Style sheet juga memungkinkan anda mengubah penampilan link (teks yang diklik oleh user untuk lompat ke halaman lain)
+
+● a:link menunjukan 
+● a:visited menunjukan link yang telah diklik / kunjungi oleh user
+● a:hover menunjukan link ketika dilewati user
+● a:active menunjukan link ketika memperoleh focus
+
 ```
 <HTML> 
 	<HEAD> 
@@ -31,4 +38,10 @@
 	</body>
 </HTML>
 ```
+
+Kita dapat mengatus sejumlah properti teks pada class-class, teks-align, teks-decoration, teks-indent, text-transform.
+
+# Output
+
+
 
