@@ -42,7 +42,5 @@ Implementasi Style sheet juga memungkinkan anda mengubah penampilan link (teks y
 Kita dapat mengatus sejumlah properti teks pada class-class, teks-align, teks-decoration, teks-indent, text-transform.
 
 # Output
-
-
-
+![image](https://raw.githubusercontent.com/SansDev-Comunity/Pengenalan-CSS/refs/heads/main/images/link.png)
 
