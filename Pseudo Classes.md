@@ -17,3 +17,7 @@ Dimasukan pada baris kode paling atas, berikut selector pseudo class:
 | **:focus** | input:focus | Memilih elemen input yang mendapat focus. |
 | **first-letter** | p:first-letter | Memilih huruf pertama dari setiap element p. |
 | **first-line** | p:first-line | Memilih baris pertama dari setiap elemen p. |
+| **firts-child** | p:firts-child | Memilih setiap element p yang merupakan anak pertama dari parent-nya. |
+| **** | p: | . |
+| **** | p: | . |
+| **** | p: | . |
