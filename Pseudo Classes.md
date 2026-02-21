@@ -18,6 +18,6 @@ Dimasukan pada baris kode paling atas, berikut selector pseudo class:
 | **first-letter** | p:first-letter | Memilih huruf pertama dari setiap element p. |
 | **first-line** | p:first-line | Memilih baris pertama dari setiap elemen p. |
 | **firts-child** | p:firts-child | Memilih setiap element p yang merupakan anak pertama dari parent-nya. |
-| **** | p: | . |
-| **** | p: | . |
-| **** | p: | . |
+| **:before** | p:before | Memasukan konten sebelum setiap elemen p. |
+| **:after** | p:after | Memasukan konten setelah setiap elemen p. |
+| **:lang(language)** | p:lang(it) | Memilih setiap elemen p dengan atribut lang dengan nilai dimulai dengan string "it". |
