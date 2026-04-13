@@ -14,3 +14,7 @@
 	</BODY> 
 </HTML>
 ```
+
+# Output
+
+![image](https://github.com/SansDev-Comunity/Pengenalan-CSS/blob/main/images/Group.png)
