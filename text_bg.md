@@ -1,3 +1,4 @@
+```
 <html> 
 	<head> 
 		<title>Teks Latar Gambar</title> 
@@ -8,3 +9,4 @@
 		</h1> 
 	</body> 
 </html>
+```
