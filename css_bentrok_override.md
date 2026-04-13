@@ -17,4 +17,4 @@
 
 # Output
 
-![image](https://github.com/SansDev-Comunity/Pengenalan-CSS/blob/main/images/Group.png)
+![image](https://raw.githubusercontent.com/SansDev-Comunity/Pengenalan-CSS/refs/heads/main/images/css_bentrok_override.png)
