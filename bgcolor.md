@@ -1,6 +1,7 @@
+```
 <HTML> 
 	<HEAD> 
-		<TITLE> Latihan CSS </TITLE> 
+		<TITLE> Latihan CSS - BgColor </TITLE> 
 	</HEAD>
 	<body> 
 		<h1 style="color:#FFFFFF"> 
@@ -8,3 +9,4 @@
 		Tips CSS</span></h1> 
 	</body> 
 </HTML>
+```
