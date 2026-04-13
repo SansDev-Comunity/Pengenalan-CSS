@@ -1,3 +1,4 @@
+```
 <!DOCTYPE html>
 <html>
   <head>
@@ -8,3 +9,4 @@
     <img src="poster.png" style="width:30%;">
   </body>
 </html>
+```
