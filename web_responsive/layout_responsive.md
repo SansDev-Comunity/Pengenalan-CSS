@@ -27,8 +27,8 @@
 
 # Output Desktop
 
-![image]()
+![image](https://raw.githubusercontent.com/SansDev-Comunity/Pengenalan-CSS/refs/heads/main/images/web_responsive%3Alayout_responsive_Desktop.png)
 
 # Output Mobile
 
-![image]()
+![image](https://raw.githubusercontent.com/SansDev-Comunity/Pengenalan-CSS/refs/heads/main/images/web_responsive%3Alayout_responsive_Mobile.png)
