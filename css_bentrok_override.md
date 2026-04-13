@@ -1,3 +1,4 @@
+```
 <HTML> 
 	<HEAD> 
 		<TITLE> Latihan CSS </TITLE> 
@@ -11,4 +12,5 @@
 	<BODY> 
 		<h1 style="color=black">Syukuri apa yang ada</h1> 
 	</BODY> 
-</HTML> 
+</HTML>
+```
