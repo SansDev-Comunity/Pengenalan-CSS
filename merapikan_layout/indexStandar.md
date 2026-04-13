@@ -31,3 +31,7 @@
 </body>
 </html>
 ```
+
+# Output
+
+![image](https://raw.githubusercontent.com/SansDev-Comunity/Pengenalan-CSS/refs/heads/main/images/merapikan_layout.png)
