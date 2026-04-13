@@ -1,7 +1,9 @@
+# CSS BG Color
+
 ```
 <HTML> 
 	<HEAD> 
-		<TITLE> Latihan CSS - BgColor </TITLE> 
+		<TITLE> Latihan CSS</TITLE> 
 	</HEAD>
 	<body> 
 		<h1 style="color:#FFFFFF"> 
