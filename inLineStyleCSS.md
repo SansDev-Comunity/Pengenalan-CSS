@@ -12,5 +12,5 @@
 ```
 # Output
 
-![image](https://raw.githubusercontent.com/SansDev-Comunity/Pengenalan-CSS/refs/heads/main/images/inLineStyle.png?token=GHSAT0AAAAAADTMAA5J6IU2DVUHHC6VDEGY2LPIMZA)
+![image](https://github.com/SansDev-Comunity/Pengenalan-CSS/blob/main/images/inLineStyle.png)
 
