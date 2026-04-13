@@ -13,4 +13,4 @@
 
 # Output
 
-![image](https://github.com/SansDev-Comunity/Pengenalan-CSS/blob/main/images/ungroupcss.png)
+![image](https://raw.githubusercontent.com/SansDev-Comunity/Pengenalan-CSS/refs/heads/main/images/Text_bg.png)
