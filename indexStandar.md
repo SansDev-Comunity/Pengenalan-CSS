@@ -1,3 +1,6 @@
+# Studi Kasus Merapihkan Layout Website
+
+```
 <html>
 <head>
 
@@ -29,3 +32,4 @@
 	</ol>
 </body>
 </html>
+```
